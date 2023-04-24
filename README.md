@@ -26,3 +26,9 @@ LinkedIN: https://www.linkedin.com/in/martin-reinmann-a7b582/
 
 GitHub: https://github.com/dotnjet/grocy_PowerBI
 
+  
+  Additional queries:
+
+Products with "[GF]" in the ProductName will be filtered as "GlutenFree"
+
+Products with "[PP]" in the ProductName will be filtered as "ParentProduct"
